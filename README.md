@@ -8,3 +8,7 @@ Mobile devices have experienced phenomenal growth over the past few years and no
 
 Automated Testing
 Somethings should be automated to ensure wider test coverage and we can automate the testing of API, Web, and even Mobile platforms using a number of popular frameworks.
+
+
+
+https://www.qaengineers.net/
